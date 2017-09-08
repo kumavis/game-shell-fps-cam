@@ -1,5 +1,7 @@
 # game-shell-fps-camera
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kumavis/game-shell-fps-cam.svg)](https://greenkeeper.io/)
+
 First person shooter style camera controls for [game-shell](https://github.com/mikolalysenko/game-shell)
 
 WASD and space/shift to translate, mouse to rotate. Requires pointer lock.
